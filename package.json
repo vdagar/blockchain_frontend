@@ -1,0 +1,24 @@
+{
+  "name": "blockchain_frontend",
+  "version": "1.0.0",
+  "description": "Web Service for Private Blockchain",
+  "main": "block.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "level": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdagar/blockchain_frontend.git"
+  },
+  "author": "Virender Dagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdagar/blockchain_frontend/issues"
+  },
+  "homepage": "https://github.com/vdagar/blockchain_frontend#readme"
+}
